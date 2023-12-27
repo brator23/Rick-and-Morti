@@ -1,0 +1,364 @@
+{
+  "characters": [
+    {
+      "chName": "Rick Sanchez",
+      "chImg": "https://rickandmortyapi.com/api/character/avatar/1.jpeg",
+      "id": 1
+    },
+    {
+      "chName": "Morty Smith",
+      "chImg": "https://rickandmortyapi.com/api/character/avatar/2.jpeg",
+      "id": 2
+    },
+    {
+      "chName": "Summer Smith",
+      "chImg": "https://rickandmortyapi.com/api/character/avatar/3.jpeg",
+      "id": 3
+    },
+    {
+      "chName": "Jerry Smith",
+      "chImg": "https://rickandmortyapi.com/api/character/avatar/5.jpeg",
+      "id": 4
+    },
+    {
+      "chName": "Beth Smith",
+      "chImg": "https://rickandmortyapi.com/api/character/avatar/4.jpeg",
+      "id": 5
+    },
+    {
+      "chName": "Abadango Cluster Princess",
+      "chImg": "https://rickandmortyapi.com/api/character/avatar/6.jpeg",
+      "id": 6
+    },
+    {
+      "chName": "Abradolf Lincler",
+      "chImg": "https://rickandmortyapi.com/api/character/avatar/7.jpeg",
+      "id": 7
+    },
+    {
+      "chName": "Adjudicator Rick",
+      "chImg": "https://rickandmortyapi.com/api/character/avatar/8.jpeg",
+      "id": 8
+    },
+    {
+      "chName": "Alexander",
+      "chImg": "https://rickandmortyapi.com/api/character/avatar/12.jpeg",
+      "id": 9
+    },
+    {
+      "chName": "Alien Morty",
+      "chImg": "https://rickandmortyapi.com/api/character/avatar/14.jpeg",
+      "id": 10
+    },
+    {
+      "chName": "Antenna Morty",
+      "chImg": "https://rickandmortyapi.com/api/character/avatar/18.jpeg",
+      "id": 11
+    },
+    {
+      "chName": "Annie",
+      "chImg": "https://rickandmortyapi.com/api/character/avatar/17.jpeg",
+      "id": 12
+    },
+    {
+      "chName": "Amish Cyborg",
+      "chImg": "https://rickandmortyapi.com/api/character/avatar/16.jpeg",
+      "id": 13
+    },
+    {
+      "chName": "Alien Googah",
+      "chImg": "https://rickandmortyapi.com/api/character/avatar/13.jpeg",
+      "id": 14
+    },
+    {
+      "chName": "Alien Rick",
+      "chImg": "https://rickandmortyapi.com/api/character/avatar/15.jpeg",
+      "id": 15
+    },
+    {
+      "chName": "Antenna Rick",
+      "chImg": "https://rickandmortyapi.com/api/character/avatar/19.jpeg",
+      "id": 16
+    },
+    {
+      "chName": "Ants in my Eyes Johnson",
+      "chImg": "https://rickandmortyapi.com/api/character/avatar/20.jpeg",
+      "id": 17
+    },
+    {
+      "chName": "Agency Director",
+      "chImg": "https://rickandmortyapi.com/api/character/avatar/9.jpeg",
+      "id": 18
+    },
+    {
+      "chName": "Alan Rails",
+      "chImg": "https://rickandmortyapi.com/api/character/avatar/10.jpeg",
+      "id": 19
+    },
+    {
+      "chName": "Abradolf Lincler",
+      "chImg": "https://rickandmortyapi.com/api/character/avatar/7.jpeg",
+      "id": 20
+    },
+    {
+      "chName": "Abadango Cluster Princess",
+      "chImg": "https://rickandmortyapi.com/api/character/avatar/6.jpeg",
+      "id": 21
+    },
+    {
+      "chName": "Adjudicator Rick",
+      "chImg": "https://rickandmortyapi.com/api/character/avatar/8.jpeg",
+      "id": 22
+    },
+    {
+      "chName": "Alexander",
+      "chImg": "https://rickandmortyapi.com/api/character/avatar/12.jpeg",
+      "id": 23
+    },
+    {
+      "chName": "Abadango Cluster Princess",
+      "chImg": "https://rickandmortyapi.com/api/character/avatar/6.jpeg",
+      "id": 24
+    },
+    {
+      "chName": "Alexander",
+      "chImg": "https://rickandmortyapi.com/api/character/avatar/12.jpeg",
+      "id": 25
+    },
+    {
+      "chName": "Adjudicator Rick",
+      "chImg": "https://rickandmortyapi.com/api/character/avatar/8.jpeg",
+      "id": 26
+    },
+    {
+      "chName": "Rick Sanchez",
+      "chImg": "https://rickandmortyapi.com/api/character/avatar/1.jpeg",
+      "id": 27
+    },
+    {
+      "chName": "Morty Smith",
+      "chImg": "https://rickandmortyapi.com/api/character/avatar/2.jpeg",
+      "id": 28
+    },
+    {
+      "chName": "Beth Smith",
+      "chImg": "https://rickandmortyapi.com/api/character/avatar/4.jpeg",
+      "id": 29
+    },
+    {
+      "chName": "Jerry Smith",
+      "chImg": "https://rickandmortyapi.com/api/character/avatar/5.jpeg",
+      "id": 30
+    },
+    {
+      "chName": "Abadango Cluster Princess",
+      "chImg": "https://rickandmortyapi.com/api/character/avatar/6.jpeg",
+      "id": 31
+    },
+    {
+      "chName": "Abradolf Lincler",
+      "chImg": "https://rickandmortyapi.com/api/character/avatar/7.jpeg",
+      "id": 32
+    },
+    {
+      "chName": "Adjudicator Rick",
+      "chImg": "https://rickandmortyapi.com/api/character/avatar/8.jpeg",
+      "id": 33
+    },
+    {
+      "chName": "Agency Director",
+      "chImg": "https://rickandmortyapi.com/api/character/avatar/9.jpeg",
+      "id": 34
+    },
+    {
+      "chName": "Alan Rails",
+      "chImg": "https://rickandmortyapi.com/api/character/avatar/10.jpeg",
+      "id": 35
+    },
+    {
+      "chName": "Albert Einstein",
+      "chImg": "https://rickandmortyapi.com/api/character/avatar/11.jpeg",
+      "id": 36
+    },
+    {
+      "chName": "Alexander",
+      "chImg": "https://rickandmortyapi.com/api/character/avatar/12.jpeg",
+      "id": 37
+    },
+    {
+      "chName": "Summer Smith",
+      "chImg": "https://rickandmortyapi.com/api/character/avatar/3.jpeg",
+      "id": 38
+    },
+    {
+      "chName": "Alien Rick",
+      "chImg": "https://rickandmortyapi.com/api/character/avatar/15.jpeg",
+      "id": 39
+    },
+    {
+      "chName": "Amish Cyborg",
+      "chImg": "https://rickandmortyapi.com/api/character/avatar/16.jpeg",
+      "id": 40
+    },
+    {
+      "chName": "Annie",
+      "chImg": "https://rickandmortyapi.com/api/character/avatar/17.jpeg",
+      "id": 41
+    },
+    {
+      "chName": "Alien Morty",
+      "chImg": "https://rickandmortyapi.com/api/character/avatar/14.jpeg",
+      "id": 42
+    },
+    {
+      "chName": "Summer Smith",
+      "chImg": "https://rickandmortyapi.com/api/character/avatar/3.jpeg",
+      "id": 43
+    },
+    {
+      "chName": "Antenna Rick",
+      "chImg": "https://rickandmortyapi.com/api/character/avatar/19.jpeg",
+      "id": 44
+    },
+    {
+      "chName": "Antenna Morty",
+      "chImg": "https://rickandmortyapi.com/api/character/avatar/18.jpeg",
+      "id": 45
+    },
+    {
+      "chName": "Amish Cyborg",
+      "chImg": "https://rickandmortyapi.com/api/character/avatar/16.jpeg",
+      "id": 46
+    },
+    {
+      "chName": "Alien Rick",
+      "chImg": "https://rickandmortyapi.com/api/character/avatar/15.jpeg",
+      "id": 47
+    },
+    {
+      "chName": "Annie",
+      "chImg": "https://rickandmortyapi.com/api/character/avatar/17.jpeg",
+      "id": 48
+    },
+    {
+      "chName": "Rick Sanchez",
+      "chImg": "https://rickandmortyapi.com/api/character/avatar/1.jpeg",
+      "id": 49
+    },
+    {
+      "chName": "Morty Smith",
+      "chImg": "https://rickandmortyapi.com/api/character/avatar/2.jpeg",
+      "id": 50
+    },
+    {
+      "chName": "Abradolf Lincler",
+      "chImg": "https://rickandmortyapi.com/api/character/avatar/7.jpeg",
+      "id": 51
+    },
+    {
+      "chName": "Summer Smith",
+      "chImg": "https://rickandmortyapi.com/api/character/avatar/3.jpeg",
+      "id": 52
+    },
+    {
+      "chName": "Beth Smith",
+      "chImg": "https://rickandmortyapi.com/api/character/avatar/4.jpeg",
+      "id": 53
+    },
+    {
+      "chName": "Jerry Smith",
+      "chImg": "https://rickandmortyapi.com/api/character/avatar/5.jpeg",
+      "id": 54
+    },
+    {
+      "chName": "Abadango Cluster Princess",
+      "chImg": "https://rickandmortyapi.com/api/character/avatar/6.jpeg",
+      "id": 55
+    },
+    {
+      "chName": "Adjudicator Rick",
+      "chImg": "https://rickandmortyapi.com/api/character/avatar/8.jpeg",
+      "id": 56
+    },
+    {
+      "chName": "Alan Rails",
+      "chImg": "https://rickandmortyapi.com/api/character/avatar/10.jpeg",
+      "id": 57
+    },
+    {
+      "chName": "Agency Director",
+      "chImg": "https://rickandmortyapi.com/api/character/avatar/9.jpeg",
+      "id": 58
+    },
+    {
+      "chName": "Albert Einstein",
+      "chImg": "https://rickandmortyapi.com/api/character/avatar/11.jpeg",
+      "id": 59
+    },
+    {
+      "chName": "Alexander",
+      "chImg": "https://rickandmortyapi.com/api/character/avatar/12.jpeg",
+      "id": 60
+    },
+    {
+      "chName": "Alien Rick",
+      "chImg": "https://rickandmortyapi.com/api/character/avatar/15.jpeg",
+      "id": 61
+    },
+    {
+      "chName": "Antenna Rick",
+      "chImg": "https://rickandmortyapi.com/api/character/avatar/19.jpeg",
+      "id": 62
+    },
+    {
+      "chName": "Antenna Morty",
+      "chImg": "https://rickandmortyapi.com/api/character/avatar/18.jpeg",
+      "id": 63
+    },
+    {
+      "chName": "Annie",
+      "chImg": "https://rickandmortyapi.com/api/character/avatar/17.jpeg",
+      "id": 64
+    },
+    {
+      "chName": "Amish Cyborg",
+      "chImg": "https://rickandmortyapi.com/api/character/avatar/16.jpeg",
+      "id": 65
+    },
+    {
+      "chName": "Ants in my Eyes Johnson",
+      "chImg": "https://rickandmortyapi.com/api/character/avatar/20.jpeg",
+      "id": 66
+    },
+    {
+      "chName": "Alien Googah",
+      "chImg": "https://rickandmortyapi.com/api/character/avatar/13.jpeg",
+      "id": 67
+    },
+    {
+      "chName": "Agency Director",
+      "chImg": "https://rickandmortyapi.com/api/character/avatar/9.jpeg",
+      "id": 68
+    },
+    {
+      "chName": "Adjudicator Rick",
+      "chImg": "https://rickandmortyapi.com/api/character/avatar/8.jpeg",
+      "id": 69
+    },
+    {
+      "chName": "Albert Einstein",
+      "chImg": "https://rickandmortyapi.com/api/character/avatar/11.jpeg",
+      "id": 70
+    },
+    {
+      "chName": "Alan Rails",
+      "chImg": "https://rickandmortyapi.com/api/character/avatar/10.jpeg",
+      "id": 71
+    },
+    {
+      "chName": "Alexander",
+      "chImg": "https://rickandmortyapi.com/api/character/avatar/12.jpeg",
+      "id": 72
+    }
+  ]
+}
